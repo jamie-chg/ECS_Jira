@@ -1,15 +1,16 @@
 import requests
 import json
+import os
 
 # --- CONFIG ---
 JIRA_BASE_URL = "https://chghealthcare.atlassian.net"  # adjust if different
-JIRA_EMAIL = "jamie.gordon@chghealtcare.com"
-JIRA_API_TOKEN = "ATATT3xFfGF0efSLl59JqokaZnxSvOacQUoXQjyAt8SqkO4QpUYZF7Aapg6i98U_2frq3XnVA7ITTixGjArdgatKTFZqFj3MVGuVg8NTbs58wru22zSyTJNFtr10CKkhG330CsGRhGudu6AtxLe5Gjp6dqmaxo6h3nXLwByTMaF9RFHiSI2_biU=CF87B06E"
+JIRA_EMAIL = os.environ["JIRA_EMAIL"]
+JIRA_API_TOKEN = os.environ["JIRA_API_TOKEN"]
 JIRA_FIELD_ID = "customfield_20690"
 JIRA_CONTEXT_ID = "22636"
 
 SMARTSHEET_BASE_URL = "https://api.smartsheet.com/2.0"
-SMARTSHEET_TOKEN = "cc2vFfElPjLmK7h5aM2zoYR8A7oNsCg38I4KCt"
+SMARTSHEET_TOKEN = os.environ["SMARTSHEET_TOKEN"]
 SMARTSHEET_SHEET_ID = "V2fFqggWHcXhqqHwvmQxVQ539vMxWP7pqfM539w1"
 CLIENT_COLUMN_ID = 2012512791095172  # column ID for Client Name
 
@@ -23,6 +24,14 @@ smartsheet_headers = {
     "Authorization": f"Bearer {SMARTSHEET_TOKEN}",
     "Accept": "application/json"
 }
+
+JIRA_API_TOKEN = os.environ.get("JIRA_API_TOKEN")
+if not JIRA_API_TOKEN:
+    raise RuntimeError("JIRA_API_TOKEN environment variable is not set")
+
+SMARTSHEET_TOKEN = os.environ.get("SMARTSHEET_TOKEN")
+if not JIRA_API_TOKEN:
+    raise RuntimeError("SMARTSHEET_TOKEN environment variable is not set")
 
 # --- 1. Get Clients from Smartsheet ---
 sheet_url = f"{SMARTSHEET_BASE_URL}/sheets/{SMARTSHEET_SHEET_ID}"
