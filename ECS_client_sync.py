@@ -13,6 +13,7 @@ SMARTSHEET_BASE_URL = "https://api.smartsheet.com/2.0"
 SMARTSHEET_TOKEN = os.environ["SMARTSHEET_TOKEN"]
 SMARTSHEET_SHEET_ID = "V2fFqggWHcXhqqHwvmQxVQ539vMxWP7pqfM539w1"
 CLIENT_COLUMN_ID = 2012512791095172  # column ID for Client Name
+CA_BUNDLE = "/home/jgordon/.certs/cloudflare-g2.pem"
 
 jira_auth = (JIRA_EMAIL, JIRA_API_TOKEN)
 jira_headers = {
@@ -35,7 +36,9 @@ if not JIRA_API_TOKEN:
 
 # --- 1. Get Clients from Smartsheet ---
 sheet_url = f"{SMARTSHEET_BASE_URL}/sheets/{SMARTSHEET_SHEET_ID}"
-sheet_resp = requests.get(sheet_url, headers=smartsheet_headers)
+sheet_resp = requests.get(sheet_url, 
+                          headers=smartsheet_headers,
+                          verify=CA_BUNDLE)
 sheet_resp.raise_for_status()
 sheet = sheet_resp.json()
 
