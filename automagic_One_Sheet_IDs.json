@@ -1,0 +1,559 @@
+{
+  "id": 3138412697937796,
+  "title": "Primary Column"
+}
+{
+  "id": 7642012325308292,
+  "title": "ECS ID"
+}
+{
+  "id": 2012512791095172,
+  "title": "Client Name"
+}
+{
+  "id": 2970218256983940,
+  "title": "ClientGroup ID"
+}
+{
+  "id": 8939113621546884,
+  "title": "ECS Account Manager"
+}
+{
+  "id": 37467483072388,
+  "title": "Client Executive"
+}
+{
+  "id": 6481431867746180,
+  "title": "AM Leader"
+}
+{
+  "id": 8733231681431428,
+  "title": "Senior Leader"
+}
+{
+  "id": 148244891756420,
+  "title": "VP"
+}
+{
+  "id": 1092130290591620,
+  "title": "CHLT JDE"
+}
+{
+  "id": 6710162329233284,
+  "title": "WBY JDE"
+}
+{
+  "id": 4458362515548036,
+  "title": "GMS JDE"
+}
+{
+  "id": 3415148812259204,
+  "title": "CHP JDE"
+}
+{
+  "id": 5355531960903556,
+  "title": "Marketing Segmentation"
+}
+{
+  "id": 3103732147218308,
+  "title": "Vertical Segmentation"
+}
+{
+  "id": 7607331774588804,
+  "title": "Client Segmentation"
+}
+{
+  "id": 1977832240375684,
+  "title": "Buy Sell Hierarchy"
+}
+{
+  "id": 2400044705441668,
+  "title": "Centralized? ECS distribute jobs?"
+}
+{
+  "id": 5360475468261252,
+  "title": "Marketing?"
+}
+{
+  "id": 3525944612284292,
+  "title": "Fee Schedule?"
+}
+{
+  "id": 6903644332812164,
+  "title": "Latest Fee Schedule Issued"
+}
+{
+  "id": 1274144798599044,
+  "title": "Client Type"
+}
+{
+  "id": 5777744425969540,
+  "title": "Technology Type"
+}
+{
+  "id": 4651844519126916,
+  "title": "Technology Implementation Date"
+}
+{
+  "id": 7612275281946500,
+  "title": "Opportunity Spend"
+}
+{
+  "id": 3272137101234052,
+  "title": "Rate Sheet Expiration Date"
+}
+{
+  "id": 3444602166267780,
+  "title": "Marketing Instructions (For BIDW)"
+}
+{
+  "id": 2573623329247108,
+  "title": "BIDW Fields Last Updated"
+}
+{
+  "id": 4313523589173124,
+  "title": "One Sheet"
+}
+{
+  "id": 8817123216543620,
+  "title": "Assigned Divisional Contact List"
+}
+{
+  "id": 5919847344721796,
+  "title": "Enterprise CMC_ID"
+}
+{
+  "id": 2779450480742276,
+  "title": "Nursing Provider"
+}
+{
+  "id": 6075008729960324,
+  "title": "Contract Effective Date"
+}
+{
+  "id": 8379280050048900,
+  "title": "Contract End Date"
+}
+{
+  "id": 1060930655571844,
+  "title": "Autorenew?"
+}
+{
+  "id": 5303060126191492,
+  "title": "BD to AM Handoff"
+}
+{
+  "id": 4664280314761092,
+  "title": "Marketing Allowed? (for BIDW)"
+}
+{
+  "id": 5045633360390020,
+  "title": "ECS Account Manager Employee ID"
+}
+{
+  "id": 8007771323846532,
+  "title": "Internal Connect Go Live"
+}
+{
+  "id": 6419238357362564,
+  "title": "Website"
+}
+{
+  "id": 2755971630032772,
+  "title": "About"
+}
+{
+  "id": 6852926926808964,
+  "title": "About (Formula)"
+}
+{
+  "id": 8299099371923332,
+  "title": "Contract Key Points, Deviations & Rates"
+}
+{
+  "id": 1223427392595844,
+  "title": "Contract Key Points, Deviations & Rates (Formula)"
+}
+{
+  "id": 8795583410818948,
+  "title": "Contract Key Points, Deviations & Rates (2)"
+}
+{
+  "id": 210596621143940,
+  "title": "Contract Key Points, Deviations & Rates (2) (Form)"
+}
+{
+  "id": 6891162044682116,
+  "title": "Lead Time? "
+}
+{
+  "id": 2427504959901572,
+  "title": "New York No CBOs"
+}
+{
+  "id": 1646375419045764,
+  "title": "Locations"
+}
+{
+  "id": 6472633342551940,
+  "title": "Locations (Formula)"
+}
+{
+  "id": 5973236270452612,
+  "title": "We get all jobs?"
+}
+{
+  "id": 1932467578294148,
+  "title": "Marketing Allowed?"
+}
+{
+  "id": 6436067205664644,
+  "title": "Maintain Existing Relationships?"
+}
+{
+  "id": 3637522257471364,
+  "title": "Marketing Notes"
+}
+{
+  "id": 5727027019966340,
+  "title": "Marketing (Formula)"
+}
+{
+  "id": 4184267391979396,
+  "title": "Communication Allowed After Job Received?"
+}
+{
+  "id": 8687867019349892,
+  "title": "Communication Allowed After Presentation?"
+}
+{
+  "id": 525092694740868,
+  "title": "Communication Allowed After Confirmation?"
+}
+{
+  "id": 8619538024189828,
+  "title": "Marketing ?"
+}
+{
+  "id": 3191878733221764,
+  "title": "Marketing Instructions"
+}
+{
+  "id": 8990889058035588,
+  "title": "Rules Of Engagement"
+}
+{
+  "id": 1903543287762820,
+  "title": "Name Clear Process"
+}
+{
+  "id": 7338637813043076,
+  "title": "Name Clear Process (Formula)"
+}
+{
+  "id": 6407142915133316,
+  "title": "Present/Confirmation Rules"
+}
+{
+  "id": 1709138278829956,
+  "title": "Present/Confirmation Rules (Formula)"
+}
+{
+  "id": 7072459933411204,
+  "title": "Name Clear Present Process"
+}
+{
+  "id": 7978826833651588,
+  "title": "Name Clear Present Process (Formula)"
+}
+{
+  "id": 8535880918951812,
+  "title": "Confirmations Process"
+}
+{
+  "id": 3094933622024068,
+  "title": "Confirmations Process (Formula)"
+}
+{
+  "id": 7647543371452292,
+  "title": "CompHealth Coordinator"
+}
+{
+  "id": 3143943744081796,
+  "title": "Weatherby Coordinator"
+}
+{
+  "id": 797246425982852,
+  "title": "Covid Vaccine Required?"
+}
+{
+  "id": 5154655399372676,
+  "title": "Covid Comments"
+}
+{
+  "id": 7189193923291012,
+  "title": "HP/MSS Experts & Credentialing Requirements"
+}
+{
+  "id": 1969033715181444,
+  "title": "HP/MSS Experts & Credentialing Requirements (Form)"
+}
+{
+  "id": 6763264685068164,
+  "title": "Payor Enrollment?"
+}
+{
+  "id": 1133765150855044,
+  "title": "Hospital Privileging?"
+}
+{
+  "id": 5637364778225540,
+  "title": "Credentialing Fees Reimbursable?"
+}
+{
+  "id": 3385564964540292,
+  "title": "Credentialing Details"
+}
+{
+  "id": 2789786938724228,
+  "title": "Travel Policies & Expenses"
+}
+{
+  "id": 7889164591910788,
+  "title": "Car Rentals Reimbursable?"
+}
+{
+  "id": 570815197433732,
+  "title": "If \"Yes\" above, is there a CAP?"
+}
+{
+  "id": 6685164890705796,
+  "title": "If \"Yes\" above, is there a CAP? (Formula)"
+}
+{
+  "id": 6450308239806340,
+  "title": "If yes above, are there rental class restrictions?"
+}
+{
+  "id": 5074414824804228,
+  "title": "Does CAP exclude taxes and fees?"
+}
+{
+  "id": 2822615011118980,
+  "title": "Car insurance reimbursable?"
+}
+{
+  "id": 7326214638489476,
+  "title": "Fuel reimbursable?"
+}
+{
+  "id": 4198508426121092,
+  "title": "Tolls reimbursable with receipt?"
+}
+{
+  "id": 8702108053491588,
+  "title": "Taxi/rideshare reimbursable to/from airport?"
+}
+{
+  "id": 1696715104276356,
+  "title": "Airfare reimbursable?"
+}
+{
+  "id": 6200314731646852,
+  "title": "If yes above, is there an airfare CAP?"
+}
+{
+  "id": 2181565263335300,
+  "title": "If yes above, is there an airfare CAP? (Formula)"
+}
+{
+  "id": 3948514917961604,
+  "title": "Does airfare CAP amount exclude taxes and fees?"
+}
+{
+  "id": 2791133542567812,
+  "title": "Checked bag reimbursable?"
+}
+{
+  "id": 7294733169938308,
+  "title": "Airport parking reimbursable?"
+}
+{
+  "id": 2541140034408324,
+  "title": "Travel booking fee Allowed?"
+}
+{
+  "id": 8452114545332100,
+  "title": "Lodging reimbursable?"
+}
+{
+  "id": 289340220723076,
+  "title": "If yes above, is there a lodging CAP?"
+}
+{
+  "id": 4433365077020548,
+  "title": "If yes above, is there a lodging CAP? (Formula)"
+}
+{
+  "id": 4792939848093572,
+  "title": "Does lodging CAP amount exclude taxes and fees?"
+}
+{
+  "id": 1665233635725188,
+  "title": "Preferred hotel list?"
+}
+{
+  "id": 6168833263095684,
+  "title": "Hotel parking reimbursable if required?"
+}
+{
+  "id": 8464322855653252,
+  "title": "Stipends allowed?"
+}
+{
+  "id": 301548531044228,
+  "title": "Pet fees reimbursable?"
+}
+{
+  "id": 4805148158414724,
+  "title": "Cleaning fees reimbursable?"
+}
+{
+  "id": 6642464987604868,
+  "title": "Additional Info (Travel)"
+}
+{
+  "id": 7598533249394564,
+  "title": "Additional Info (Travel) (Formula)"
+}
+{
+  "id": 20073554333572,
+  "title": "Rebate?"
+}
+{
+  "id": 5462068411191172,
+  "title": "Rate Sheet Adherence"
+}
+{
+  "id": 7713868224876420,
+  "title": "Exception Form"
+}
+{
+  "id": 3210268597505924,
+  "title": "Adherence Document"
+}
+{
+  "id": 4523673181704068,
+  "title": "Guaranteed hours/Daily rate"
+}
+{
+  "id": 2271873368018820,
+  "title": "24 hour call required to be prorated?"
+}
+{
+  "id": 6775472995389316,
+  "title": "Underbilling allowed"
+}
+{
+  "id": 1145973461176196,
+  "title": "Max OT rate"
+}
+{
+  "id": 5649573088546692,
+  "title": "Max holiday rate"
+}
+{
+  "id": 3397773274861444,
+  "title": "Orientation"
+}
+{
+  "id": 7901372902231940,
+  "title": "Timesheets"
+}
+{
+  "id": 583023507754884,
+  "title": "Misc time:"
+}
+{
+  "id": 5086623135125380,
+  "title": "Facilities within NM or WV?"
+}
+{
+  "id": 2834823321440132,
+  "title": "If yes, is sales tax billable on providers time?"
+}
+{
+  "id": 7338422948810628,
+  "title": "Mileage reimbursement"
+}
+{
+  "id": 539333728882564,
+  "title": "Mileage reimbursement at IRS rate?"
+}
+{
+  "id": 3937693028536196,
+  "title": "Mileage reimbursement at IRS rate? notes"
+}
+{
+  "id": 5042933356253060,
+  "title": "Mileage reimbursable to/from airport?"
+}
+{
+  "id": 4499847626575748,
+  "title": "Mileage map required for mileage reimbursement?"
+}
+{
+  "id": 6212523041968004,
+  "title": "Per diems allowed"
+}
+{
+  "id": 3960723228282756,
+  "title": "Meals reimbursable"
+}
+{
+  "id": 8873950885662596,
+  "title": "END OF ONE SHEET DATA"
+}
+{
+  "id": 5368678431543172,
+  "title": "States Covered"
+}
+{
+  "id": 4432120497000324,
+  "title": "Business in New York? "
+}
+{
+  "id": 8124322201423748,
+  "title": "Non-Standard Term Details"
+}
+{
+  "id": 6438217460699012,
+  "title": "Can Client Be Charged Admin Fees? "
+}
+{
+  "id": 396591156121476,
+  "title": "Rate Sheet?"
+}
+{
+  "id": 3845369565499268,
+  "title": "Specialties Outsourced"
+}
+{
+  "id": 8348969192869764,
+  "title": "Billing/Invoice Setup"
+}
+{
+  "id": 1030619798392708,
+  "title": "Wiki Page Link"
+}
+{
+  "id": 6781892963291012,
+  "title": "Revision Date"
+}
+{
+  "id": 2142328193765252,
+  "title": "Test Column"
+}
+{
+  "id": 7045757517752196,
+  "title": "Created"
